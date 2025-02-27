@@ -1,6 +1,6 @@
 # Practica5.2 - Wordpress con Docker Compose
 
-## Salida de ejecución de **docker compose ud -d**
+## Salida de ejecución de **docker compose up -d**
 ![salida](capturas/salida52.png)
 ## Página de Wordpress
 ![pagina-wordpress](capturas/wordpress52.png)
